@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @ellellie
-- 👀 I’m interested in software, and specifically the intersection between computer science and mathematics.
-- 🌱 I’m currently studying for a BSc in Computer Science and Mathematics
+- 🌱 I’m currently studying a BSc in Computer Science and Mathematics
