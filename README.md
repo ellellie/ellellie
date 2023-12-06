@@ -1,6 +1,6 @@
 # 👋 Hi, I’m ell
 - 🥝 Currently based in Auckland, New Zealand
-- 👩‍🎓 Studying Computer Science and Pure Mathematics
+- 👩‍🎓 BSc Computer Science and Pure Mathematics
 - 🏆 Ranked #153 globally in [Advent of Code 2022](https://benediktwerner.github.io/aoc-leaderboard/)
 
 # Contact me
